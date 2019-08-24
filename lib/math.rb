@@ -28,4 +28,3 @@ division(50,2)
 multiplication(4,30)
 modulo(34,5)
 square_root(81)
- 
