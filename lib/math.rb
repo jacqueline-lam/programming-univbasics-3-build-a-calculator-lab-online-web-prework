@@ -19,13 +19,13 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  puts Math.sqrt(num)
+  puts sqrt
 end
 
- addition(5,4)
- subtraction(10,5)
- division(50,2)
- multiplication(4,30)
- modulo(34,5)
- square_root(81)
+addition(5,4)
+subtraction(10,5)
+division(50,2)
+multiplication(4,30)
+modulo(34,5)
+square_root(81)
  
